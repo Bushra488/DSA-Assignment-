@@ -58,3 +58,7 @@ The implementation and efficiency of Linear and Binary Search algorithms.
 The significance of input conditions (e.g., sorted data) for algorithm performance.
 
 How to write clean, modular, and testable code.
+
+
+
+Linked In Post Link : https://www.linkedin.com/posts/bushra-fayyaz-928a37260_github-bushra488dsa-assignment-binary-activity-7286663160663601152-tciS?utm_source=share&utm_medium=member_desktop
